@@ -1,0 +1,14 @@
+Name=Fjomp
+Author=Saitn
+BorderWidth=3
+ProgressBarHeight=9
+VolumeWidth=57
+DisplayLineHeight=13
+Backcolor=229,229,229
+Font=Arial Black
+FontSize=8
+FontColor=32,32,32
+videoDisplayColor=255,255,255
+CommentLine1=Fjomp Stamp3 Skin
+CommentLine2=-------------------
+CommentLine3=Made by Saitn

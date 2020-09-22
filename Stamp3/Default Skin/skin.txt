@@ -1,0 +1,14 @@
+Name=Default Skin
+Author=Saitn
+BorderWidth=3
+ProgressBarHeight=15
+VolumeWidth=57
+DisplayLineHeight=13
+Backcolor=97,112,133
+Font=Verdana
+FontSize=8
+FontColor=255,255,255
+videoDisplayColor=0,0,0
+CommentLine1=Default Stamp3 Skin
+CommentLine2=-------------------
+CommentLine3=Made by Saitn
